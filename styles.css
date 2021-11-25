@@ -1,0 +1,368 @@
+img {
+    object-fit: cover;
+    max-width: 100%;
+}
+.col-truyen-side {
+    padding-right: 0px;
+}
+.home-truyendecu {
+    padding: 15px!important;
+}
+.list-thumbnail img {
+    height: 180px;
+}
+.foot-gioithieu {
+    padding-left: 0px;
+}
+.footer ul.list-unstyled {
+    padding-right: 0px;
+}
+.text-tentruyen {padding-left:12px!important}
+.text-888, .text-info {text-align: center}
+.comment-box .fb_iframe_widget {
+    padding: 8px 8px 30px;
+}
+.list>.row>div.more {
+    text-align: right;
+    font-weight: normal;
+    padding-right: 15px;
+}
+.list.list-thumbnail.col-xs-12 {
+    box-shadow: 0px 1px 2px rgba(0,0,0,.1);
+    background: white;
+    padding: 0px;
+}
+.facebook-comment {
+    margin: auto;
+    width: 100%;
+}
+.facebook-comment .row {
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+#list-chapter .col-xs-12.col-sm-6.col-md-6 {
+    width: 100%;
+}
+.header-menu ul.menu {
+    padding: 14px;
+}
+.header-menu ul.menu li {
+    display: inline-block;
+}
+ul.dropdown-menu ul.menu {
+    list-style-type: none;
+    padding: 0px;
+}
+ul.dropdown-menu ul.menu li a, ul.dropdown-menu ul.menu li a:link{
+    padding: 5px 15px;
+    display: block;
+    color: #333;
+}
+ul.dropdown-menu ul.menu li a:hover{
+    background: #f5f5f5;
+    text-decoration: none;
+}
+.navbar-social.navbar-right ul {
+    list-style: none;
+    padding: 0px;
+}
+.col-tren {
+    background: #fbfbfb;
+    display: flex;
+    margin: 0px -3px;
+    padding: 3px;
+    margin-bottom: -3px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+.in-col-tren {
+    width: 50%;
+    float: left;
+    background: #fbfbfb;
+}
+h2.h2-custom-col {
+	text-transform: uppercase;
+	background: white;
+	display: block;
+	border-bottom: 1px solid #dddddd;
+}
+.custom-col {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+    background: white;
+    margin-bottom: 15px;
+    position: relative;
+}
+.col-tren-1 {
+    padding-right: 7.5px;
+}
+.col-tren-2 {
+    padding-left: 7.5px;
+}
+ul.truyenhot_ul_customcol, .col-truyen-side .list.list-truyen .textwidget {
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 0px;
+    background: white;
+}
+
+ul.truyenhot_ul_customcol li.truyenhot_li_customcol {
+    padding: 10px 12px;
+    border-bottom: 1px dashed gainsboro;
+}
+img.head-logo {
+    height: 50px;
+}
+.col-truyen-side {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    float: right;
+}
+.col-main-1-moi-cap-nhat {
+    padding: 15px!important;
+    width: 25%;
+}
+.col-truyen-main-full .col-main-1-truyen-full {
+    width: calc(100%/6);
+}
+.col-duoi {
+    clear: both;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+.in-col-duoi {
+    width: 33.33333%;
+    float: left;
+    padding: 0px 7.5px;
+}
+.in-col-duoi.col-duoi-2 {
+    padding-left: 0px;
+}
+.in-col-duoi.col-duoi-4 {
+    padding-right: 0px;
+}
+.image_ngan{
+	float:left;
+	max-width:30%;
+	margin: 0px 20px 20px 0px;
+}
+.panel.cat-desc.text-left .panel-body p {
+    margin: 0px;
+}
+.col-info-desc, #list-chapter, .comment-box {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+}
+.col-truyen-main-single {
+    margin-bottom: 15px;
+}
+.ads-320-100, .ads-780-90 {
+    margin-top: 5px;
+}
+.custom-col .more{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 12px;
+}
+.cungchuyenmuc li{
+	list-style: none;
+	width: 20%;
+	padding: 15px;
+}
+.cungchuyenmuc li img {
+    height: 150px;
+}
+.content_ngan {
+    font-family: Time New Your Man;
+    font-size: 17px;
+}
+.col-truyen-side .more-side {
+    display: none;
+}
+.truyen_khong_chuong{
+    padding: 15px 0px;
+    font-size: 17px;
+    text-align: left;
+    line-height: 180%;
+}
+.list>.row>div.more {
+    position: absolute;
+    width: auto!important;
+    height: auto!important;
+    border: none;
+    top: 11px;
+    right: 12px;
+    padding: 0px!important;
+}
+.list.custom-col>.row>div.more {
+    height: auto!important;
+    line-height: normal!important;
+    padding: 0px!important;
+    border: none;
+}
+h1.full-width-title {
+    font-size: 32px;
+    line-height: normal;
+}
+.full-width-content {
+    margin: 15px 0px;
+}
+ul.sub-menu li a {
+    padding-left: 0px!important
+}
+.fix_color{
+    color:#C1377F;
+}
+.fix_color a{
+    color:#C1377F;
+}
+.tien_to {
+    font-size: 12px;
+    padding: 1px 3px;
+    z-index: 1;
+}
+.single_tien_to {
+    text-align: center;
+    margin: 10px 0px!important;
+}
+.single_ngan_tien_to {
+    margin: 5px 0px 8px 0px;
+}
+.tien_to_2 {
+    position: relative;
+    background: white;
+    top: 15px;
+    border-radius: 5px;
+}
+.single_tien_to .tien_to_2 {
+    top: -1px;
+    font-weight: normal;
+}
+.single_ngan_tien_to .tien_to_2 {
+    top: 0px;
+}
+.each_truyen {
+    position: relative;
+    display: inline;
+    padding: 13px 0px;
+}
+.full_label {
+    height: auto!important;
+    width: auto!important;
+    box-shadow: none!important;
+    border: none!important;
+    position: absolute;
+    bottom: -35px;
+    left: -6px;
+}
+.chap_options {
+    margin: 0px 5px 0px 4px!important;
+    color: #555!important;
+    white-space: normal;
+}
+.chap_options .dropdown {
+    position: static;
+}
+.chap_options .dropdown a {
+    color: white;
+}
+.chap_options .dropdown-menu.settings {
+    right: -9.3em;
+}
+.chap_options label.control-label {
+    width: 35%;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px){
+
+.header-logo {
+    margin: 9px 10px 0 15px;
+}
+
+ul.dropdown-menu ul.menu li a, ul.dropdown-menu ul.menu li a:link {
+    padding: 5px 15px 5px 25px;
+}
+
+.col-truyen-main-full .col-main-1-truyen-full {
+    width: calc(100%/4);
+}
+
+}
+
+
+
+@media(max-width:768px){
+
+
+
+}
+
+
+
+
+@media(max-width:480px){
+
+.home-truyendecu {
+    padding: 15px 0px!important
+}
+.list-thumbnail img {
+    height: 140px;
+    width: 85%;
+}
+.header-logo {
+    margin-left: 15px;
+}
+.breadcrumb-container {
+    padding: 0 15px;
+}
+.col-tren, .in-col-tren {
+    display:block;
+    float:none;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.col-main-1-moi-cap-nhat, .col-truyen-main-full .col-main-1-truyen-full {
+    width:33.333333%;
+    padding: 15px 0px!important;
+}
+.in-col-duoi {
+    width: 100%;
+    float: none;
+    padding: 0px;
+}
+
+.image_ngan {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    height: 150px;
+    display: block;
+    margin: 0px 0px 20px;
+}
+.l-chapter .l-chapters>li, .list-chapter>li{
+	width: 50%;
+}
+
+.truyen_khong_chuong{
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+}
+
+.chapter-nav .form-control, .chap_options label.control-label {
+    width: 100%;
+}
+
+}
